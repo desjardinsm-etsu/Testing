@@ -19,7 +19,7 @@ namespace MyFirstUnitTests
 
 
             //Assert - Did the test pass or fail?
-            Assert.Equal("Mathew", person.FirstName);
+            Assert.Equal("Sally", person.FirstName);
          
         }
     }
